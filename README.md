@@ -1,5 +1,5 @@
 # Hey, there!
-🎯 Hi! I'm a 25y.o. front-end developer, always curious and ready to learn!  
+🎯 I'm a 25y.o. front-end developer, always curious and ready to learn!  
 🚀 I'm currently building modern web apps using:  
 
 - **React 19**, **Next.js**, **TypeScript**, **Redux/Zustand**  
