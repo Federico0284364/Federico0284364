@@ -7,4 +7,4 @@
 - **Firebase** when a fast backend or auth is needed  
 
 ## My stack  
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,git,react,tailwind,redux,nextjs,firebase,jest)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,git,react,tailwind,redux,nextjs,firebase,jest)](https://skillicons.dev)
